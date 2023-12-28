@@ -147,6 +147,6 @@ examples = [
   "The movie was terrible..."
 ]
 
-print("Predicciones")
+print("Predicciones prueba")
 predict = export_model.predict(examples)
 print(predict)
